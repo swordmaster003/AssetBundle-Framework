@@ -1,10 +1,5 @@
 # AssetBundle-Framework
 AssetBundle Framework ia a complete solution for network game to manage assets.
-
-![image](https://github.com/swordmaster003/AssetBundle-Framework/blob/master/Screenshots/Cover.png)
-  
-  
- <Center>Workflow</Center>
   
 ![image](https://github.com/swordmaster003/AssetBundle-Framework/blob/master/Screenshots/5.png)
 
