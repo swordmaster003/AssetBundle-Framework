@@ -21,13 +21,13 @@ You can download this asset from Unity Asset Store:
 
 - Three AssetBundle mode would be used in the unity editor:
 
-(1)NoAssetBundleMode: load asset from directory called BuildAssetBundlesPath directly, without ever building an AssetBundle.
+  (1)NoAssetBundleMode: load asset from directory called BuildAssetBundlesPath directly, without ever building an AssetBundle.
 
-(2)AssetBundleDebugMode:you need not to build you own asset server,the directory which AssetBundles are saved will become your asset server's assets folder which simulate the real asset server.
+  (2)AssetBundleDebugMode:you need not to build you own asset server,the directory which AssetBundles are saved will become your asset server's assets folder which simulate the real asset server.
 
-(3)AssetBundleCompleteMode:The complete process pattern for the framework,you have to build your own asset server.
+  (3)AssetBundleCompleteMode:The complete process pattern for the framework,you have to build your own asset server.
 
-![image](https://github.com/swordmaster003/AssetBundle-Framework/blob/master/Screenshots/1.png)
+  ![image](https://github.com/swordmaster003/AssetBundle-Framework/blob/master/Screenshots/1.png)
 
 - Asset Dependency Management including AssetBundle Manifests that keep track of every AssetBundle and all of their dependencies.Assets Dependencies are handled automatically by the AssetBundle Framework .With AssetBundle Manifests it is possible to query all AssetBundles and their dependencies.
 
