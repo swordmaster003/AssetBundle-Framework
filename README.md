@@ -2,6 +2,11 @@
 AssetBundle Framework ia a complete solution for network game to manage assets.
 
 ![image](https://github.com/swordmaster003/AssetBundle-Framework/blob/master/Screenshots/Cover.png)
+  
+  
+ <Center>Workflow</Center>
+  
+![image](https://github.com/swordmaster003/AssetBundle-Framework/blob/master/Screenshots/5.png)
 
 ## Support Unity Versions
 
@@ -46,10 +51,6 @@ You can download this asset from Unity Asset Store:
 - Povide the object pool of Assets which is easy to use,and it will make your game more smoothly .
 
 - Provide the complete source code, convenient debugging and adjustment in your project.
-
-## Workflow
-
- ![image](https://github.com/swordmaster003/AssetBundle-Framework/blob/master/Screenshots/5.png)
 
 
 
